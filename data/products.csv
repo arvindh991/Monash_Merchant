@@ -1,0 +1,6 @@
+product_id,product_name,product_brand,product_description,product_price,product_member_price,product_quantity,product_category,product_sub_category,product_expiry,product_ingridients,product_storage_instructions,product_allergens,is_active
+1, Banana, Cavendish, Fresh Banana,300,23,20, 12, food, food, 12-03-05, banana, ,
+2, Apple, Royal Gala, Fresh Apple,350,23,20, 12, food, food, 12-03-05, banana, ,
+3, Mango, Keth, Fresh Mango,400,23,10, 12, food, food, 12-03-05, banana, ,
+4, Pear, William Barlett, Fresh Pear,100,23,15, 12, food, food, 12-03-05, banana, ,
+5, Orange, American Refresh, Fresh Orange,250,230,15, TV, 12,  ,  ,  ,  ,1.0

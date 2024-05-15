@@ -1,0 +1,3 @@
+user_id, role, email, password
+1, customer, member@student.monash.edu, Monash1234
+2, administrator, admin@merchant.monash.edu, 12345678

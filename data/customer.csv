@@ -1,0 +1,2 @@
+user_id, first_name, last_name, date_of_birth, gender, mobile_number, address, fund, membership
+1, John, Smith, 1990-11-23, Male, 0412345678, 6 Main Street Pakenham, 1000, True
